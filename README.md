@@ -11,7 +11,7 @@ allows me to implement my designs into interactive and responsive applications.
 
 ---
 ## Connect with me
-- [Website](mochaiminmr.vercel.app)
+- [Website](https://www.mochaiminmr.vercel.app)
 - [Linkedin](https://www.linkedin.com/in/mochaimin-muhamad-rizq-0486521a5)
 - [Email](mailto:mochaimin.9@gmail.com)
  
